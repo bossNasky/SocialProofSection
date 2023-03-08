@@ -1,0 +1,20 @@
+:root {
+  --clr-primary-400: hsl(300, 43%, 22%);
+  --clr-primary-300: hsl(333, 80%, 67%);
+  --clr-neutral-400: hsl(0, 0%, 100%);
+  --clr-neutral-300: hsl(300, 24%, 96%);
+  --clr-neutral-200: hsl(303, 10%, 53%);
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "League Spartan", sans-serif;
+  font-weight: 400;
+}
